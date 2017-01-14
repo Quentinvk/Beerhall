@@ -12,6 +12,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Beerhall", "src\Beerhall\Beerhall.xproj", "{9B8E7703-980C-4FC3-9DA4-7A0F31897308}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{6604D44A-A6DC-4F03-A4D5-865A5658BC0A}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Beerhall.Test", "test\Beerhall.Test\Beerhall.Test.xproj", "{BA82E34A-8523-4821-88BE-17CA8BFA19C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,11 +26,16 @@ Global
 		{9B8E7703-980C-4FC3-9DA4-7A0F31897308}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B8E7703-980C-4FC3-9DA4-7A0F31897308}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B8E7703-980C-4FC3-9DA4-7A0F31897308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA82E34A-8523-4821-88BE-17CA8BFA19C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA82E34A-8523-4821-88BE-17CA8BFA19C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA82E34A-8523-4821-88BE-17CA8BFA19C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA82E34A-8523-4821-88BE-17CA8BFA19C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{9B8E7703-980C-4FC3-9DA4-7A0F31897308} = {D7CDAF9A-7BD0-40D8-917B-AA5938341002}
+		{BA82E34A-8523-4821-88BE-17CA8BFA19C9} = {6604D44A-A6DC-4F03-A4D5-865A5658BC0A}
 	EndGlobalSection
 EndGlobal
