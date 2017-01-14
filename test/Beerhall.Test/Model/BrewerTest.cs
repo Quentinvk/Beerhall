@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using Beerhall.Model;
 using Xunit;
 
 namespace Beerhall.Models.Domain {

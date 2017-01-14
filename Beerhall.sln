@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D7CDAF9A-7BD0-40D8-917B-AA5938341002}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\..\AppData\Local\Temp\Rar$DRa0.284\08MvcCRUD-master\src\Beerhall\bundleconfig.json = ..\..\..\..\..\..\AppData\Local\Temp\Rar$DRa0.284\08MvcCRUD-master\src\Beerhall\bundleconfig.json
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8A624267-3F7E-44B0-B711-80DF60C96FF4}"
 	ProjectSection(SolutionItems) = preProject

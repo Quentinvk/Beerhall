@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Beerhall.Models.Domain {
+namespace Beerhall.Model{
     public class Beer {
         #region Fields
         private string _name;

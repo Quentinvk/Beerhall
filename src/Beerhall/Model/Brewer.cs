@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Beerhall.Models.Domain {
+namespace Beerhall.Model{
     public class Brewer {
         #region Fields
         private string _name;

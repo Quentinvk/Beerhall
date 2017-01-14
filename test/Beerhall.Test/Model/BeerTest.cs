@@ -1,4 +1,5 @@
 ﻿using System;
+using Beerhall.Model;
 using Xunit;
 
 
